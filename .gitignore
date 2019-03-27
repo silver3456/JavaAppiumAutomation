@@ -1,0 +1,9 @@
+/.idea
+/.idea/**
+/*.iml.idea
+/target
+/target/**
+*.class
+*.iml
+*.jar
+*.apk 
